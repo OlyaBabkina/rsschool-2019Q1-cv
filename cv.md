@@ -24,4 +24,31 @@ I'm a self-taught front-end developer. I've started lerning web technologies few
 * ### Version Managment:
   * Git;
   * Github;
-* ### Experience with html/css;* 
+* ### Experience with html/css;
+
+## Side Projects:
+* Gris's web page:
+  * Web page about the first game of spanish developers Nomanda Studio. Code is available on [Github](https://github.com/OlyaBabkina/web2). Technologies used:
+    * Front End UI:
+      * HTML;
+      * CSS;
+    * Front End Interactivity:
+      * JavaScript;
+      * Jquery;
+* Chat
+  * Code is available on [Github](https://github.com/OlyaBabkina/web3). Chat built with next technologies:
+    * Front End UI:
+      * HTML;
+      * CSS;
+    * Front End Interactivity:
+      * JavaScript;
+      * Jquery;
+    * DataBase:
+      * MongoDb;
+
+## Education:
+* 2015 - 2019: Belarusian State Univercity of Infornatics and radioelectronics;
+* 2015 - 2017: Streamline language courses;
+
+## Additional information:
+* ### English level: Upper-Intermediate (B2);
