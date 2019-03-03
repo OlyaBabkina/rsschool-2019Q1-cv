@@ -5,3 +5,5 @@
 * mail: eren.shkigal@mail.ru;
 * tel: +375256554139;
 * github: <https://github.com/OlyaBabkina>* 
+
+I'm a self-taught front-end developer. I've started lerning web technologies few month ago, but I improve my skills really fast because of my previous experience in coding with c++. For now I have basic knowledge of html, css and js. Also I have experience in working with node.js and node.js's frameworks. 
