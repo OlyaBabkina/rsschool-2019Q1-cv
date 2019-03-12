@@ -2,3 +2,20 @@ html, body{
     margin: 0px;
     padding: 0px;
 }
+
+header, main {
+    width: 500px;
+    margin: auto;
+}
+
+.img {
+    float: right;
+    margin: 15px;
+}
+
+.about {
+    text-align: justify;
+}
+
+
+
